@@ -1,2 +1,3 @@
-# particle-collision
-A demonstration of rigid-body collision mechanics in python.
+# A Demonstration of Collision mechanics in Python
+
+![](https://github.com/CarsonScott/particle-collision/blob/master/demonstration.gif)
